@@ -1,3 +1,7 @@
+# H1 Title
 This is the first line.
+
 This is the second line.
-*hello*
+
+## H2 Styling
+*italics* **bolded** ~strikethrough~
